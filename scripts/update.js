@@ -10,9 +10,36 @@ async function actualizar() {
 
     const eventos = data.events || [];
 
+    const hoyGT = new Date().toLocaleDateString(
+        'en-CA',
+        {
+            timeZone: 'America/Guatemala'
+        }
+    );
+
+    const eventosHoy = eventos.filter(evento => {
+
+        const fechaEvento = new Date(evento.date)
+            .toLocaleDateString(
+                'en-CA',
+                {
+                    timeZone: 'America/Guatemala'
+                }
+            );
+
+        return (
+            fechaEvento === hoyGT &&
+            ['pre', 'in'].includes(evento.status.type.state)
+        );
+    });
+
+    eventosHoy.sort(
+        (a, b) => new Date(a.date) - new Date(b.date)
+    );
+
     const resultado = [];
 
-    eventos.slice(0, 5).forEach(evento => {
+    eventosHoy.forEach(evento => {
 
         const comp = evento.competitions[0];
 
@@ -54,6 +81,9 @@ async function actualizar() {
         JSON.stringify(resultado, null, 2)
     );
 
+    console.log(
+        `Actualizados ${resultado.length} partidos`
+    );
 }
 
-actualizar();
+actualizar().catch(console.error);
