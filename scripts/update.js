@@ -30,7 +30,7 @@ function fechaGT(fecha) {
 async function actualizar() {
 
     const response = await fetch(
-        'https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard'
+        'https://worldcup26.ir/get/games'
     );
 
     const data = await response.json();
