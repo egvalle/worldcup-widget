@@ -1,13 +1,5 @@
 [
   {
-    "home": "NED",
-    "away": "JPN",
-    "score": "1-1",
-    "state": "in",
-    "detail": "61'",
-    "date": "2026-06-14T20:00Z"
-  },
-  {
     "home": "CIV",
     "away": "ECU",
     "score": "0-0",
@@ -30,5 +22,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-14T17:00Z"
+  },
+  {
+    "home": "NED",
+    "away": "JPN",
+    "score": "2-2",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-14T20:00Z"
   }
 ]
