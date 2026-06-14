@@ -12,9 +12,17 @@ function fechaGT(fecha) {
         }
     ).formatToParts(fecha);
 
-    const year = partes.find(p => p.type === 'year').value;
-    const month = partes.find(p => p.type === 'month').value;
-    const day = partes.find(p => p.type === 'day').value;
+    const year = partes.find(
+        p => p.type === 'year'
+    ).value;
+
+    const month = partes.find(
+        p => p.type === 'month'
+    ).value;
+
+    const day = partes.find(
+        p => p.type === 'day'
+    ).value;
 
     return `${year}-${month}-${day}`;
 }
@@ -37,17 +45,34 @@ async function actualizar() {
             new Date(evento.date)
         );
 
-        return (
-            fechaEventoGT === hoyGT &&
-            ['pre', 'in'].includes(
-                evento.status.type.state
-            )
-        );
+        return fechaEventoGT === hoyGT;
+
     });
 
-    eventosHoy.sort(
-        (a, b) => new Date(a.date) - new Date(b.date)
-    );
+    eventosHoy.sort((a, b) => {
+
+        const prioridad = {
+            in: 1,
+            pre: 2,
+            post: 3
+        };
+
+        const pa =
+            prioridad[a.status.type.state] || 9;
+
+        const pb =
+            prioridad[b.status.type.state] || 9;
+
+        if (pa !== pb) {
+            return pa - pb;
+        }
+
+        return (
+            new Date(a.date) -
+            new Date(b.date)
+        );
+
+    });
 
     const resultado = [];
 
@@ -84,13 +109,18 @@ async function actualizar() {
 
             date:
                 evento.date
+
         });
 
     });
 
     fs.writeFileSync(
         './data/matches.json',
-        JSON.stringify(resultado, null, 2)
+        JSON.stringify(
+            resultado,
+            null,
+            2
+        )
     );
 
     console.log(
