@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "home": "FRA",
+    "away": "SEN",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Tue, June 16th at 3:00 PM EDT",
+    "date": "2026-06-16T19:00Z"
+  },
+  {
+    "home": "IRQ",
+    "away": "NOR",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Tue, June 16th at 6:00 PM EDT",
+    "date": "2026-06-16T22:00Z"
+  },
+  {
+    "home": "ARG",
+    "away": "ALG",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Tue, June 16th at 9:00 PM EDT",
+    "date": "2026-06-17T01:00Z"
+  }
+]
