@@ -1,13 +1,5 @@
 [
   {
-    "home": "POR",
-    "away": "COD",
-    "score": "0-0",
-    "state": "pre",
-    "detail": "Wed, June 17th at 1:00 PM EDT",
-    "date": "2026-06-17T17:00Z"
-  },
-  {
     "home": "ENG",
     "away": "CRO",
     "score": "0-0",
@@ -30,5 +22,13 @@
     "state": "pre",
     "detail": "Wed, June 17th at 10:00 PM EDT",
     "date": "2026-06-18T02:00Z"
+  },
+  {
+    "home": "POR",
+    "away": "COD",
+    "score": "1-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-17T17:00Z"
   }
 ]
