@@ -1,13 +1,5 @@
 [
   {
-    "home": "ENG",
-    "away": "CRO",
-    "score": "3-2",
-    "state": "in",
-    "detail": "58'",
-    "date": "2026-06-17T20:00Z"
-  },
-  {
     "home": "GHA",
     "away": "PAN",
     "score": "0-0",
@@ -30,5 +22,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-17T17:00Z"
+  },
+  {
+    "home": "ENG",
+    "away": "CRO",
+    "score": "4-2",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-17T20:00Z"
   }
 ]
