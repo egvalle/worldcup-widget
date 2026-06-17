@@ -1,26 +1,34 @@
 [
   {
-    "home": "FRA",
-    "away": "SEN",
-    "score": "3-1",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-16T19:00Z"
+    "home": "POR",
+    "away": "COD",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, June 17th at 1:00 PM EDT",
+    "date": "2026-06-17T17:00Z"
   },
   {
-    "home": "IRQ",
-    "away": "NOR",
-    "score": "1-4",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-16T22:00Z"
+    "home": "ENG",
+    "away": "CRO",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, June 17th at 4:00 PM EDT",
+    "date": "2026-06-17T20:00Z"
   },
   {
-    "home": "ARG",
-    "away": "ALG",
-    "score": "3-0",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-17T01:00Z"
+    "home": "GHA",
+    "away": "PAN",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, June 17th at 7:00 PM EDT",
+    "date": "2026-06-17T23:00Z"
+  },
+  {
+    "home": "UZB",
+    "away": "COL",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, June 17th at 10:00 PM EDT",
+    "date": "2026-06-18T02:00Z"
   }
 ]
