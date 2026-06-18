@@ -1,13 +1,5 @@
 [
   {
-    "home": "CZE",
-    "away": "RSA",
-    "score": "0-0",
-    "state": "in",
-    "detail": "4'",
-    "date": "2026-06-18T16:00Z"
-  },
-  {
     "home": "SUI",
     "away": "BIH",
     "score": "0-0",
@@ -30,5 +22,13 @@
     "state": "pre",
     "detail": "Thu, June 18th at 9:00 PM EDT",
     "date": "2026-06-19T01:00Z"
+  },
+  {
+    "home": "CZE",
+    "away": "RSA",
+    "score": "1-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-18T16:00Z"
   }
 ]
