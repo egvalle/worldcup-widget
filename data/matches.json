@@ -1,18 +1,10 @@
 [
   {
-    "home": "CAN",
-    "away": "QAT",
-    "score": "3-0",
-    "state": "in",
-    "detail": "HT",
-    "date": "2026-06-18T22:00Z"
-  },
-  {
     "home": "MEX",
     "away": "KOR",
     "score": "0-0",
-    "state": "pre",
-    "detail": "Thu, June 18th at 9:00 PM EDT",
+    "state": "in",
+    "detail": "HT",
     "date": "2026-06-19T01:00Z"
   },
   {
@@ -30,5 +22,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-18T19:00Z"
+  },
+  {
+    "home": "CAN",
+    "away": "QAT",
+    "score": "6-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-18T22:00Z"
   }
 ]
