@@ -1,13 +1,5 @@
 [
   {
-    "home": "GER",
-    "away": "CIV",
-    "score": "0-1",
-    "state": "in",
-    "detail": "HT",
-    "date": "2026-06-20T20:00Z"
-  },
-  {
     "home": "ECU",
     "away": "CUW",
     "score": "0-0",
@@ -22,5 +14,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-20T17:00Z"
+  },
+  {
+    "home": "GER",
+    "away": "CIV",
+    "score": "2-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-20T20:00Z"
   }
 ]
