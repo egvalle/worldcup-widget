@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "home": "NED",
+    "away": "SWE",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Sat, June 20th at 1:00 PM EDT",
+    "date": "2026-06-20T17:00Z"
+  },
+  {
+    "home": "GER",
+    "away": "CIV",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Sat, June 20th at 4:00 PM EDT",
+    "date": "2026-06-20T20:00Z"
+  },
+  {
+    "home": "ECU",
+    "away": "CUW",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Sat, June 20th at 8:00 PM EDT",
+    "date": "2026-06-21T00:00Z"
+  }
+]
