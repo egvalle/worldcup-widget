@@ -1,18 +1,10 @@
 [
   {
-    "home": "SCO",
-    "away": "MAR",
-    "score": "0-1",
-    "state": "in",
-    "detail": "81'",
-    "date": "2026-06-19T22:00Z"
-  },
-  {
     "home": "BRA",
     "away": "HAI",
-    "score": "0-0",
-    "state": "pre",
-    "detail": "Fri, June 19th at 8:30 PM EDT",
+    "score": "3-0",
+    "state": "in",
+    "detail": "58'",
     "date": "2026-06-20T00:30Z"
   },
   {
@@ -30,5 +22,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-19T19:00Z"
+  },
+  {
+    "home": "SCO",
+    "away": "MAR",
+    "score": "0-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-19T22:00Z"
   }
 ]
