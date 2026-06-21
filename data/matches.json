@@ -1,13 +1,5 @@
 [
   {
-    "home": "ECU",
-    "away": "CUW",
-    "score": "0-0",
-    "state": "pre",
-    "detail": "Sat, June 20th at 8:00 PM EDT",
-    "date": "2026-06-21T00:00Z"
-  },
-  {
     "home": "NED",
     "away": "SWE",
     "score": "5-1",
@@ -22,5 +14,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-20T20:00Z"
+  },
+  {
+    "home": "ECU",
+    "away": "CUW",
+    "score": "0-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-21T00:00Z"
   }
 ]
