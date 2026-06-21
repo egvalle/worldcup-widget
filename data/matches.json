@@ -1,13 +1,5 @@
 [
   {
-    "home": "BEL",
-    "away": "IRN",
-    "score": "0-0",
-    "state": "in",
-    "detail": "HT",
-    "date": "2026-06-21T19:00Z"
-  },
-  {
     "home": "URU",
     "away": "CPV",
     "score": "0-0",
@@ -30,5 +22,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-21T16:00Z"
+  },
+  {
+    "home": "BEL",
+    "away": "IRN",
+    "score": "0-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-21T19:00Z"
   }
 ]
