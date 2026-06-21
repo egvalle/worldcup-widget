@@ -1,13 +1,5 @@
 [
   {
-    "home": "ESP",
-    "away": "KSA",
-    "score": "3-0",
-    "state": "in",
-    "detail": "45'+2'",
-    "date": "2026-06-21T16:00Z"
-  },
-  {
     "home": "BEL",
     "away": "IRN",
     "score": "0-0",
@@ -30,5 +22,13 @@
     "state": "pre",
     "detail": "Sun, June 21st at 9:00 PM EDT",
     "date": "2026-06-22T01:00Z"
+  },
+  {
+    "home": "ESP",
+    "away": "KSA",
+    "score": "4-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-21T16:00Z"
   }
 ]
