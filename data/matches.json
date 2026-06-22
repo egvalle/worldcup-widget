@@ -1,18 +1,10 @@
 [
   {
-    "home": "ARG",
-    "away": "AUT",
-    "score": "1-0",
-    "state": "in",
-    "detail": "90'+4'",
-    "date": "2026-06-22T17:00Z"
-  },
-  {
     "home": "FRA",
     "away": "IRQ",
-    "score": "0-0",
-    "state": "pre",
-    "detail": "Mon, June 22nd at 5:00 PM EDT",
+    "score": "1-0",
+    "state": "in",
+    "detail": "32'",
     "date": "2026-06-22T21:00Z"
   },
   {
@@ -30,5 +22,13 @@
     "state": "pre",
     "detail": "Mon, June 22nd at 11:00 PM EDT",
     "date": "2026-06-23T03:00Z"
+  },
+  {
+    "home": "ARG",
+    "away": "AUT",
+    "score": "2-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-22T17:00Z"
   }
 ]
