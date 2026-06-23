@@ -1,34 +1,34 @@
 [
   {
-    "home": "JOR",
-    "away": "ALG",
-    "score": "1-1",
-    "state": "in",
-    "detail": "71'",
-    "date": "2026-06-23T03:00Z"
+    "home": "POR",
+    "away": "UZB",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Tue, June 23rd at 1:00 PM EDT",
+    "date": "2026-06-23T17:00Z"
   },
   {
-    "home": "ARG",
-    "away": "AUT",
-    "score": "2-0",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-22T17:00Z"
+    "home": "ENG",
+    "away": "GHA",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Tue, June 23rd at 4:00 PM EDT",
+    "date": "2026-06-23T20:00Z"
   },
   {
-    "home": "FRA",
-    "away": "IRQ",
-    "score": "3-0",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-22T21:00Z"
+    "home": "PAN",
+    "away": "CRO",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Tue, June 23rd at 7:00 PM EDT",
+    "date": "2026-06-23T23:00Z"
   },
   {
-    "home": "NOR",
-    "away": "SEN",
-    "score": "3-2",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-23T00:00Z"
+    "home": "COL",
+    "away": "COD",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Tue, June 23rd at 10:00 PM EDT",
+    "date": "2026-06-24T02:00Z"
   }
 ]
