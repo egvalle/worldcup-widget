@@ -1,26 +1,10 @@
 [
   {
-    "home": "FRA",
-    "away": "IRQ",
-    "score": "2-0",
-    "state": "in",
-    "detail": "62'",
-    "date": "2026-06-22T21:00Z"
-  },
-  {
-    "home": "NOR",
-    "away": "SEN",
-    "score": "0-0",
-    "state": "in",
-    "detail": "18'",
-    "date": "2026-06-23T00:00Z"
-  },
-  {
     "home": "JOR",
     "away": "ALG",
-    "score": "0-0",
-    "state": "pre",
-    "detail": "Mon, June 22nd at 11:00 PM EDT",
+    "score": "1-1",
+    "state": "in",
+    "detail": "71'",
     "date": "2026-06-23T03:00Z"
   },
   {
@@ -30,5 +14,21 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-22T17:00Z"
+  },
+  {
+    "home": "FRA",
+    "away": "IRQ",
+    "score": "3-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-22T21:00Z"
+  },
+  {
+    "home": "NOR",
+    "away": "SEN",
+    "score": "3-2",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-23T00:00Z"
   }
 ]
