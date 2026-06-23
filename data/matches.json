@@ -1,18 +1,10 @@
 [
   {
-    "home": "ENG",
-    "away": "GHA",
-    "score": "0-0",
-    "state": "in",
-    "detail": "90'+5'",
-    "date": "2026-06-23T20:00Z"
-  },
-  {
     "home": "PAN",
     "away": "CRO",
     "score": "0-0",
-    "state": "pre",
-    "detail": "Tue, June 23rd at 7:00 PM EDT",
+    "state": "in",
+    "detail": "13'",
     "date": "2026-06-23T23:00Z"
   },
   {
@@ -30,5 +22,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-23T17:00Z"
+  },
+  {
+    "home": "ENG",
+    "away": "GHA",
+    "score": "0-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-23T20:00Z"
   }
 ]
