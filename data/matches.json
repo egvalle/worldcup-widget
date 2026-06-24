@@ -1,21 +1,5 @@
 [
   {
-    "home": "BIH",
-    "away": "QAT",
-    "score": "0-0",
-    "state": "in",
-    "detail": "19'",
-    "date": "2026-06-24T19:00Z"
-  },
-  {
-    "home": "SUI",
-    "away": "CAN",
-    "score": "0-0",
-    "state": "in",
-    "detail": "19'",
-    "date": "2026-06-24T19:00Z"
-  },
-  {
     "home": "MAR",
     "away": "HAI",
     "score": "0-0",
@@ -46,5 +30,21 @@
     "state": "pre",
     "detail": "Wed, June 24th at 9:00 PM EDT",
     "date": "2026-06-25T01:00Z"
+  },
+  {
+    "home": "BIH",
+    "away": "QAT",
+    "score": "3-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-24T19:00Z"
+  },
+  {
+    "home": "SUI",
+    "away": "CAN",
+    "score": "2-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-24T19:00Z"
   }
 ]
