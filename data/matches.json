@@ -1,34 +1,50 @@
 [
   {
-    "home": "POR",
-    "away": "UZB",
-    "score": "5-0",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-23T17:00Z"
-  },
-  {
-    "home": "ENG",
-    "away": "GHA",
+    "home": "BIH",
+    "away": "QAT",
     "score": "0-0",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-23T20:00Z"
+    "state": "pre",
+    "detail": "Wed, June 24th at 3:00 PM EDT",
+    "date": "2026-06-24T19:00Z"
   },
   {
-    "home": "PAN",
-    "away": "CRO",
-    "score": "0-1",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-23T23:00Z"
+    "home": "SUI",
+    "away": "CAN",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, June 24th at 3:00 PM EDT",
+    "date": "2026-06-24T19:00Z"
   },
   {
-    "home": "COL",
-    "away": "COD",
-    "score": "1-0",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-24T02:00Z"
+    "home": "MAR",
+    "away": "HAI",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, June 24th at 6:00 PM EDT",
+    "date": "2026-06-24T22:00Z"
+  },
+  {
+    "home": "SCO",
+    "away": "BRA",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, June 24th at 6:00 PM EDT",
+    "date": "2026-06-24T22:00Z"
+  },
+  {
+    "home": "CZE",
+    "away": "MEX",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, June 24th at 9:00 PM EDT",
+    "date": "2026-06-25T01:00Z"
+  },
+  {
+    "home": "RSA",
+    "away": "KOR",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, June 24th at 9:00 PM EDT",
+    "date": "2026-06-25T01:00Z"
   }
 ]
