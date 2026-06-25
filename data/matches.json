@@ -1,21 +1,5 @@
 [
   {
-    "home": "CZE",
-    "away": "MEX",
-    "score": "0-0",
-    "state": "in",
-    "detail": "45'+3'",
-    "date": "2026-06-25T01:00Z"
-  },
-  {
-    "home": "RSA",
-    "away": "KOR",
-    "score": "0-0",
-    "state": "in",
-    "detail": "45'+4'",
-    "date": "2026-06-25T01:00Z"
-  },
-  {
     "home": "BIH",
     "away": "QAT",
     "score": "3-1",
@@ -46,5 +30,21 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-24T22:00Z"
+  },
+  {
+    "home": "CZE",
+    "away": "MEX",
+    "score": "0-3",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-25T01:00Z"
+  },
+  {
+    "home": "RSA",
+    "away": "KOR",
+    "score": "1-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-25T01:00Z"
   }
 ]
