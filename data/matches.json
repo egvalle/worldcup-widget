@@ -1,37 +1,5 @@
 [
   {
-    "home": "CPV",
-    "away": "KSA",
-    "score": "0-0",
-    "state": "in",
-    "detail": "84'",
-    "date": "2026-06-27T00:00Z"
-  },
-  {
-    "home": "URU",
-    "away": "ESP",
-    "score": "0-1",
-    "state": "in",
-    "detail": "83'",
-    "date": "2026-06-27T00:00Z"
-  },
-  {
-    "home": "EGY",
-    "away": "IRN",
-    "score": "0-0",
-    "state": "pre",
-    "detail": "Fri, June 26th at 11:00 PM EDT",
-    "date": "2026-06-27T03:00Z"
-  },
-  {
-    "home": "NZL",
-    "away": "BEL",
-    "score": "0-0",
-    "state": "pre",
-    "detail": "Fri, June 26th at 11:00 PM EDT",
-    "date": "2026-06-27T03:00Z"
-  },
-  {
     "home": "NOR",
     "away": "FRA",
     "score": "1-4",
@@ -46,5 +14,37 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-26T19:00Z"
+  },
+  {
+    "home": "CPV",
+    "away": "KSA",
+    "score": "0-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-27T00:00Z"
+  },
+  {
+    "home": "URU",
+    "away": "ESP",
+    "score": "0-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-27T00:00Z"
+  },
+  {
+    "home": "EGY",
+    "away": "IRN",
+    "score": "1-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-27T03:00Z"
+  },
+  {
+    "home": "NZL",
+    "away": "BEL",
+    "score": "1-5",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-27T03:00Z"
   }
 ]
