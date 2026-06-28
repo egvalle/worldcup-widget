@@ -1,37 +1,5 @@
 [
   {
-    "home": "COL",
-    "away": "POR",
-    "score": "0-0",
-    "state": "in",
-    "detail": "45'+1'",
-    "date": "2026-06-27T23:30Z"
-  },
-  {
-    "home": "COD",
-    "away": "UZB",
-    "score": "0-1",
-    "state": "in",
-    "detail": "45'+1'",
-    "date": "2026-06-27T23:30Z"
-  },
-  {
-    "home": "ALG",
-    "away": "AUT",
-    "score": "0-0",
-    "state": "pre",
-    "detail": "Sat, June 27th at 10:00 PM EDT",
-    "date": "2026-06-28T02:00Z"
-  },
-  {
-    "home": "JOR",
-    "away": "ARG",
-    "score": "0-0",
-    "state": "pre",
-    "detail": "Sat, June 27th at 10:00 PM EDT",
-    "date": "2026-06-28T02:00Z"
-  },
-  {
     "home": "CRO",
     "away": "GHA",
     "score": "2-1",
@@ -46,5 +14,37 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-27T21:00Z"
+  },
+  {
+    "home": "COL",
+    "away": "POR",
+    "score": "0-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-27T23:30Z"
+  },
+  {
+    "home": "COD",
+    "away": "UZB",
+    "score": "3-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-27T23:30Z"
+  },
+  {
+    "home": "ALG",
+    "away": "AUT",
+    "score": "3-3",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-28T02:00Z"
+  },
+  {
+    "home": "JOR",
+    "away": "ARG",
+    "score": "1-3",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-28T02:00Z"
   }
 ]
