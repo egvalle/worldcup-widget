@@ -1,13 +1,5 @@
 [
   {
-    "home": "GER",
-    "away": "PAR",
-    "score": "1-1",
-    "state": "in",
-    "detail": "93'",
-    "date": "2026-06-29T20:30Z"
-  },
-  {
     "home": "NED",
     "away": "MAR",
     "score": "0-0",
@@ -22,5 +14,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-29T17:00Z"
+  },
+  {
+    "home": "GER",
+    "away": "PAR",
+    "score": "1-1",
+    "state": "post",
+    "detail": "FT-Pens",
+    "date": "2026-06-29T20:30Z"
   }
 ]
