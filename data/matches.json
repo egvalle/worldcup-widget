@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "home": "BRA",
+    "away": "JPN",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Mon, June 29th at 1:00 PM EDT",
+    "date": "2026-06-29T17:00Z"
+  },
+  {
+    "home": "GER",
+    "away": "PAR",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Mon, June 29th at 4:30 PM EDT",
+    "date": "2026-06-29T20:30Z"
+  },
+  {
+    "home": "NED",
+    "away": "MAR",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Mon, June 29th at 9:00 PM EDT",
+    "date": "2026-06-30T01:00Z"
+  }
+]
