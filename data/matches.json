@@ -1,13 +1,5 @@
 [
   {
-    "home": "FRA",
-    "away": "SWE",
-    "score": "1-0",
-    "state": "in",
-    "detail": "HT",
-    "date": "2026-06-30T21:00Z"
-  },
-  {
     "home": "MEX",
     "away": "ECU",
     "score": "0-0",
@@ -22,5 +14,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-06-30T17:00Z"
+  },
+  {
+    "home": "FRA",
+    "away": "SWE",
+    "score": "3-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-30T21:00Z"
   }
 ]
