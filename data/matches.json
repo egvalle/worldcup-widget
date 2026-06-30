@@ -1,13 +1,5 @@
 [
   {
-    "home": "CIV",
-    "away": "NOR",
-    "score": "0-1",
-    "state": "in",
-    "detail": "49'",
-    "date": "2026-06-30T17:00Z"
-  },
-  {
     "home": "FRA",
     "away": "SWE",
     "score": "0-0",
@@ -22,5 +14,13 @@
     "state": "pre",
     "detail": "Tue, June 30th at 9:00 PM EDT",
     "date": "2026-07-01T01:00Z"
+  },
+  {
+    "home": "CIV",
+    "away": "NOR",
+    "score": "1-2",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-06-30T17:00Z"
   }
 ]
