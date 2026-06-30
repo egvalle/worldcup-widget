@@ -1,13 +1,5 @@
 [
   {
-    "home": "NED",
-    "away": "MAR",
-    "score": "0-0",
-    "state": "in",
-    "detail": "35'",
-    "date": "2026-06-30T01:00Z"
-  },
-  {
     "home": "BRA",
     "away": "JPN",
     "score": "2-1",
@@ -22,5 +14,13 @@
     "state": "post",
     "detail": "FT-Pens",
     "date": "2026-06-29T20:30Z"
+  },
+  {
+    "home": "NED",
+    "away": "MAR",
+    "score": "1-1",
+    "state": "post",
+    "detail": "FT-Pens",
+    "date": "2026-06-30T01:00Z"
   }
 ]
