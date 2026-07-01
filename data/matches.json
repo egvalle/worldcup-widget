@@ -1,26 +1,26 @@
 [
   {
-    "home": "CIV",
-    "away": "NOR",
-    "score": "1-2",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-30T17:00Z"
+    "home": "ENG",
+    "away": "COD",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, July 1st at 12:00 PM EDT",
+    "date": "2026-07-01T16:00Z"
   },
   {
-    "home": "FRA",
-    "away": "SWE",
-    "score": "3-0",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-06-30T21:00Z"
+    "home": "BEL",
+    "away": "SEN",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, July 1st at 4:00 PM EDT",
+    "date": "2026-07-01T20:00Z"
   },
   {
-    "home": "MEX",
-    "away": "ECU",
-    "score": "2-0",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-07-01T02:00Z"
+    "home": "USA",
+    "away": "BIH",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Wed, July 1st at 8:00 PM EDT",
+    "date": "2026-07-02T00:00Z"
   }
 ]
