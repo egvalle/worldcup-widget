@@ -1,13 +1,5 @@
 [
   {
-    "home": "BEL",
-    "away": "SEN",
-    "score": "2-2",
-    "state": "in",
-    "detail": "90'+6'",
-    "date": "2026-07-01T20:00Z"
-  },
-  {
     "home": "USA",
     "away": "BIH",
     "score": "0-0",
@@ -22,5 +14,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-07-01T16:00Z"
+  },
+  {
+    "home": "BEL",
+    "away": "SEN",
+    "score": "3-2",
+    "state": "post",
+    "detail": "AET",
+    "date": "2026-07-01T20:00Z"
   }
 ]
