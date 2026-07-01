@@ -1,13 +1,5 @@
 [
   {
-    "home": "ENG",
-    "away": "COD",
-    "score": "0-1",
-    "state": "in",
-    "detail": "32'",
-    "date": "2026-07-01T16:00Z"
-  },
-  {
     "home": "BEL",
     "away": "SEN",
     "score": "0-0",
@@ -22,5 +14,13 @@
     "state": "pre",
     "detail": "Wed, July 1st at 8:00 PM EDT",
     "date": "2026-07-02T00:00Z"
+  },
+  {
+    "home": "ENG",
+    "away": "COD",
+    "score": "2-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-07-01T16:00Z"
   }
 ]
