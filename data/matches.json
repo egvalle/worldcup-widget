@@ -1,13 +1,5 @@
 [
   {
-    "home": "USA",
-    "away": "BIH",
-    "score": "1-0",
-    "state": "in",
-    "detail": "61'",
-    "date": "2026-07-02T00:00Z"
-  },
-  {
     "home": "ENG",
     "away": "COD",
     "score": "2-1",
@@ -22,5 +14,13 @@
     "state": "post",
     "detail": "AET",
     "date": "2026-07-01T20:00Z"
+  },
+  {
+    "home": "USA",
+    "away": "BIH",
+    "score": "2-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-07-02T00:00Z"
   }
 ]
