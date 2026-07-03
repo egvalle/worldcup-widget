@@ -1,26 +1,26 @@
 [
   {
-    "home": "ESP",
-    "away": "AUT",
-    "score": "3-0",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-07-02T19:00Z"
+    "home": "AUS",
+    "away": "EGY",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Fri, July 3rd at 2:00 PM EDT",
+    "date": "2026-07-03T18:00Z"
   },
   {
-    "home": "POR",
-    "away": "CRO",
-    "score": "2-1",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-07-02T23:00Z"
+    "home": "ARG",
+    "away": "CPV",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Fri, July 3rd at 6:00 PM EDT",
+    "date": "2026-07-03T22:00Z"
   },
   {
-    "home": "SUI",
-    "away": "ALG",
-    "score": "2-0",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-07-03T03:00Z"
+    "home": "COL",
+    "away": "GHA",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Fri, July 3rd at 9:30 PM EDT",
+    "date": "2026-07-04T01:30Z"
   }
 ]
