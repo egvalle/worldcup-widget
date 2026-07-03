@@ -1,13 +1,5 @@
 [
   {
-    "home": "POR",
-    "away": "CRO",
-    "score": "0-0",
-    "state": "in",
-    "detail": "44'",
-    "date": "2026-07-02T23:00Z"
-  },
-  {
     "home": "SUI",
     "away": "ALG",
     "score": "0-0",
@@ -22,5 +14,13 @@
     "state": "post",
     "detail": "FT",
     "date": "2026-07-02T19:00Z"
+  },
+  {
+    "home": "POR",
+    "away": "CRO",
+    "score": "2-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-07-02T23:00Z"
   }
 ]
