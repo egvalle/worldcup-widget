@@ -1,13 +1,5 @@
 [
   {
-    "home": "AUS",
-    "away": "EGY",
-    "score": "1-1",
-    "state": "in",
-    "detail": "AET-pens",
-    "date": "2026-07-03T18:00Z"
-  },
-  {
     "home": "ARG",
     "away": "CPV",
     "score": "0-0",
@@ -22,5 +14,13 @@
     "state": "pre",
     "detail": "Fri, July 3rd at 9:30 PM EDT",
     "date": "2026-07-04T01:30Z"
+  },
+  {
+    "home": "AUS",
+    "away": "EGY",
+    "score": "1-1",
+    "state": "post",
+    "detail": "FT-Pens",
+    "date": "2026-07-03T18:00Z"
   }
 ]
