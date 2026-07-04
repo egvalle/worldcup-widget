@@ -1,13 +1,5 @@
 [
   {
-    "home": "COL",
-    "away": "GHA",
-    "score": "0-0",
-    "state": "pre",
-    "detail": "Fri, July 3rd at 9:30 PM EDT",
-    "date": "2026-07-04T01:30Z"
-  },
-  {
     "home": "AUS",
     "away": "EGY",
     "score": "1-1",
@@ -22,5 +14,13 @@
     "state": "post",
     "detail": "AET",
     "date": "2026-07-03T22:00Z"
+  },
+  {
+    "home": "COL",
+    "away": "GHA",
+    "score": "1-0",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-07-04T01:30Z"
   }
 ]
