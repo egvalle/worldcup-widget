@@ -1,13 +1,5 @@
 [
   {
-    "home": "ARG",
-    "away": "CPV",
-    "score": "1-1",
-    "state": "in",
-    "detail": "86'",
-    "date": "2026-07-03T22:00Z"
-  },
-  {
     "home": "COL",
     "away": "GHA",
     "score": "0-0",
@@ -22,5 +14,13 @@
     "state": "post",
     "detail": "FT-Pens",
     "date": "2026-07-03T18:00Z"
+  },
+  {
+    "home": "ARG",
+    "away": "CPV",
+    "score": "3-2",
+    "state": "post",
+    "detail": "AET",
+    "date": "2026-07-03T22:00Z"
   }
 ]
