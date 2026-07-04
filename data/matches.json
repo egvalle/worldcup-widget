@@ -1,18 +1,18 @@
 [
   {
-    "home": "CAN",
-    "away": "MAR",
-    "score": "0-1",
-    "state": "in",
-    "detail": "75'",
-    "date": "2026-07-04T17:00Z"
-  },
-  {
     "home": "PAR",
     "away": "FRA",
     "score": "0-0",
     "state": "pre",
     "detail": "Sat, July 4th at 5:00 PM EDT",
     "date": "2026-07-04T21:00Z"
+  },
+  {
+    "home": "CAN",
+    "away": "MAR",
+    "score": "0-3",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-07-04T17:00Z"
   }
 ]
