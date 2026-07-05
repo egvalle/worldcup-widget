@@ -1,18 +1,18 @@
 [
   {
-    "home": "BRA",
-    "away": "NOR",
-    "score": "0-0",
-    "state": "in",
-    "detail": "48'",
-    "date": "2026-07-05T20:00Z"
-  },
-  {
     "home": "MEX",
     "away": "ENG",
     "score": "0-0",
     "state": "pre",
     "detail": "Sun, July 5th at 8:00 PM EDT",
     "date": "2026-07-06T00:00Z"
+  },
+  {
+    "home": "BRA",
+    "away": "NOR",
+    "score": "1-2",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-07-05T20:00Z"
   }
 ]
