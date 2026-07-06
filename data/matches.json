@@ -1,18 +1,18 @@
 [
   {
-    "home": "POR",
-    "away": "ESP",
-    "score": "0-0",
-    "state": "in",
-    "detail": "65'",
-    "date": "2026-07-06T19:00Z"
-  },
-  {
     "home": "USA",
     "away": "BEL",
     "score": "0-0",
     "state": "pre",
     "detail": "Mon, July 6th at 8:00 PM EDT",
     "date": "2026-07-07T00:00Z"
+  },
+  {
+    "home": "POR",
+    "away": "ESP",
+    "score": "0-1",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-07-06T19:00Z"
   }
 ]
