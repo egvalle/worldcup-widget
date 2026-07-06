@@ -1,18 +1,18 @@
 [
   {
-    "home": "MEX",
-    "away": "ENG",
-    "score": "0-0",
-    "state": "in",
-    "detail": "11'",
-    "date": "2026-07-06T01:00Z"
-  },
-  {
     "home": "BRA",
     "away": "NOR",
     "score": "1-2",
     "state": "post",
     "detail": "FT",
     "date": "2026-07-05T20:00Z"
+  },
+  {
+    "home": "MEX",
+    "away": "ENG",
+    "score": "2-3",
+    "state": "post",
+    "detail": "FT",
+    "date": "2026-07-06T01:00Z"
   }
 ]
