@@ -1,18 +1,18 @@
 [
   {
-    "home": "BRA",
-    "away": "NOR",
-    "score": "1-2",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-07-05T20:00Z"
+    "home": "POR",
+    "away": "ESP",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Mon, July 6th at 3:00 PM EDT",
+    "date": "2026-07-06T19:00Z"
   },
   {
-    "home": "MEX",
-    "away": "ENG",
-    "score": "2-3",
-    "state": "post",
-    "detail": "FT",
-    "date": "2026-07-06T01:00Z"
+    "home": "USA",
+    "away": "BEL",
+    "score": "0-0",
+    "state": "pre",
+    "detail": "Mon, July 6th at 8:00 PM EDT",
+    "date": "2026-07-07T00:00Z"
   }
 ]
