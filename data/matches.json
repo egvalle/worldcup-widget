@@ -1,18 +1,18 @@
 [
   {
-    "home": "SUI",
-    "away": "COL",
-    "score": "0-0",
-    "state": "in",
-    "detail": "Penalties",
-    "date": "2026-07-07T20:00Z"
-  },
-  {
     "home": "ARG",
     "away": "EGY",
     "score": "3-2",
     "state": "post",
     "detail": "FT",
     "date": "2026-07-07T16:00Z"
+  },
+  {
+    "home": "SUI",
+    "away": "COL",
+    "score": "0-0",
+    "state": "post",
+    "detail": "FT-Pens",
+    "date": "2026-07-07T20:00Z"
   }
 ]
